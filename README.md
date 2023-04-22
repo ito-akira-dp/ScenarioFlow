@@ -1,5 +1,9 @@
 # ScenarioFlow
 
+## Manual
+
+[Japanese manual](https://zenn.dev/ito_akira)
+
 ## Sample Game
 
 [Alice in Fairy Tale (WebGL)](https://itoakira2023.github.io/AliceInFairyTale_WebGL/)
