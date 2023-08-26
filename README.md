@@ -7,7 +7,7 @@
 The notable points are below:
 
 + **Even simpler** but **even more useful** structure of classes and interfaces, which supports programmers
-+ Provide a **new scenario description language** ***SFText***, which is very strong tool for writers to describe scenario scripts
++ **New scenario description language** ***SFText***, which is very strong tool for writers to describe scenario scripts
 
 Please look forward to it!
 
